@@ -1,4 +1,6 @@
 build
+target
+Cargo.lock
 x64
 
 .idea
